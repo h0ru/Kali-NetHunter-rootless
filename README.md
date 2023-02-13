@@ -44,7 +44,7 @@ pkg install wget
 ### ► Download e Instalação do NetHunter:
 - Baixar o script (O `chmod +x` já vem incluso no comando)
 ```
-wget -O https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project/raw/master/nethunter-rootless/install-nethunter-termux ; chmod +x install-nethunter-termux
+wget https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-project/raw/master/nethunter-rootless/install-nethunter-termux -O install-nethunter-termux; chmod +x install-nethunter-termux
 ```
 
 - Execute o script
