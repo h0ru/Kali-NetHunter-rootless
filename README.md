@@ -90,9 +90,9 @@ nethunter kex &
 
 - Após a execução do comando anterior será retornado em qual porta o serviço VNC está rodando (**Por padrão será 5901**)
 
-- Minimize o Termux e abra o NetHunter KeX... 
+- Minimize o Termux e abra o NetHunter KeX
 
-- No campo `VNC Server` mantenha localhost:1 e no campo `port` deixe a que estiver rodando o serviço VNC (Ex. 5901)
+- No campo `VNC Server` mantenha localhost:1 e no campo `port` coloque a que estiver rodando o serviço VNC (Ex. 5901)
 
 - No campo `VNC Password` coloque a senha que foi configurada no Termux
 
